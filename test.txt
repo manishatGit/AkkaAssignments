@@ -1,0 +1,2 @@
+all the words in the file are counted 
+and are exactly 12
